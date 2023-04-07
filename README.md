@@ -1,5 +1,5 @@
 # Site Link
-click ->  #https://reactgerichtrestaurant.netlify.app/
+click: -> https://reactgerichtrestaurant.netlify.app/
 
 
 # Getting Started with Create React App
